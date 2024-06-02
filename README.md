@@ -37,7 +37,7 @@ To set the dates for "OPT" and "Endgame," modify the corresponding variables in 
 ## File Structure
 
 ```
-your-repo-name/
+days-till/
 │
 ├── index.html       # The main HTML file
 ├── style.css        # Custom CSS for styling
